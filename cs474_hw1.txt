@@ -26,3 +26,5 @@ Evaluation criteria:
 - the documentation is missing or insufficient to understand how to compile and run your program and how you used Java monitoring tools: up to 4% lost;
 - only a subset of your tests works: up to 3% lost;
 - the minimum grade for this homework cannot be less than zero.
+
+That's it, folks!
