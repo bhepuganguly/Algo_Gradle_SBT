@@ -8,9 +8,7 @@ Each solved problem has a program written in Java.
 Every solution is tested and some problems contains more than one solution with different implementations.
 version = '1.0-SNAPSHOT'
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+*
 
 ### How do I get set up? ###
 
@@ -27,21 +25,3 @@ After compiling the project,  you can check the solution executing tests inside 
  You can use various Java Monitoring tools for diagnosing the problems with virtual machines and the applications.
  I have consolidated all the information that I retrieved by using Java Monitoring tools in the "Java Monitoring Tool doc OOLE"
  document inside the folder which you can refer for better understanding.
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
