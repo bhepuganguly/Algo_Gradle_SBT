@@ -12,7 +12,7 @@ version = '1.0-SNAPSHOT'
 
 ### How do I get set up? ###
 
-Two separate folders named "Algorithm_gradle" and "Algorithm_SBT" have been created that has Gradle and SBT build configuration scripts respectively.
+In this project you can open a project that has Gradle and SBT build configuration scripts respectively.
 You can use any of these two to build the algorithm project by choosing the proper option in Intellij IDE.
 
 During cloning the repository you can specify the location of your folder you want for the project in your local machine.
